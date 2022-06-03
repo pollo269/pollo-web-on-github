@@ -1,8 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-restaurant-001.site0.wopop.com	TRUE	/	FALSE	1999999999	route	0aa16d877b520e0e7e6b04af6a919510
-restaurant-001.site0.wopop.com	TRUE	/	FALSE	1999999999	xyslang	deleted
-restaurant-001.site0.wopop.com	TRUE	/	FALSE	1999999999	PHPSESSID	5rt01os3rv8eq8ir946qnf15c7
-restaurant-001.site0.wopop.com	TRUE	/	FALSE	1999999999	think_var	en-us
-static.eznetonline.com	TRUE	/	FALSE	1999999999	route	cef54f47984626c9efbf070c50bfad1b
-
